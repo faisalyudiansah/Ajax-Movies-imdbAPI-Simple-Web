@@ -2,7 +2,7 @@
 Simple web - Search for movies with IMDb API key, Ajax JavaScript, and Bootstrap
 <br>
 <li>IMDb API key</li>
-<li>jQuery CDN Javascript</li>
+<li>Ajax CDN Javascript</li>
 <li>Bootstrap CDN Links</li>
 <br>
 
