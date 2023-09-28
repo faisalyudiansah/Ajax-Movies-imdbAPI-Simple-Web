@@ -2,7 +2,7 @@
 Simple web - Search for movies with OMDb API key, Ajax JavaScript, and Bootstrap
 <br>
 <li>OMDb API key</li>
-<li>Ajax CDN Javascript</li>
+<li>Ajax Javascript</li>
 <li>Bootstrap CDN Links</li>
 <br>
 
